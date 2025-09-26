@@ -5,8 +5,7 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=brown"  />
-  <script language="JavaScript" src="https://www.besucherzaehler-kostenlos.de/js/counter.js.php?count=1&id=lIzeFtfU3O&start=0&design=4e"></script>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=radek-ops/radek-ops&left_color=brown"  /> 
 </div>
 
 
