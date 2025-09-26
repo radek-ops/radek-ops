@@ -1,16 +1,15 @@
-
+###
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
-###
 
 <h1 align="center">Hey there 👋 I´m Radek</h1>
 <h3 align="center">🔥   my slogan :  the error is always in front of the monitor</h3>
 
-
+###
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -21,19 +20,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<div align="center">
-<style>
-a img{
- }
-a img:hover{
- -webkit-filter: invert(1);
-    filter: invert(1);
-}
-  
-</style>
-</div>
 
 ###
 
@@ -52,6 +38,8 @@ a img:hover{
   <img width="12" />
   <a href = "https://filezilla-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  /></a>
 </div>
+
+###
 
 <p align="left"></p>
 
