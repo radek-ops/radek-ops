@@ -1,18 +1,8 @@
 
 <html>
-###
-<div align="center">
-<style>
-a img{
- }
-a img:hover{
- -webkit-filter: invert(1);
-    filter: invert(1);
-}
-  
-</style>
-</div>
-###
+
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -41,7 +31,17 @@ a img:hover{
 
 ###
 
-
+<div align="center">
+<style>
+a img{
+ }
+a img:hover{
+ -webkit-filter: invert(1);
+    filter: invert(1);
+}
+  
+</style>
+</div>
 
 ###
 
