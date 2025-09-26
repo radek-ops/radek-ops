@@ -5,9 +5,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
+ <a href='https://bachelorarbeitschreibenlassen.com/'>https://BachelorarbeitSchreibenLassen.com</a> <script type='text/javascript' src='https://www.fastcounter.net/auth.php?id=54eecd490eb63ce4e1a596613f0dc5e944059588'></script>
+<script type="text/javascript" src="https://www.fastcounter.net/de/home/counter/1397399/t/5"></script>
 
 ###
 
