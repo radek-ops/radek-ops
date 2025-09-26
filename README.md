@@ -2,7 +2,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=radek-ops/radek-ops&left_color=brown"  /> 
@@ -14,10 +14,6 @@
 <h1 align="center">Hey there 👋 I´m Radek</h1>
 <h3 align="left">🔥   my slogan :  the error is always in front of the monitor</h3>
 
-###
-
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
