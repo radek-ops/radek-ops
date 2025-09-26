@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Germany<br><br>-- 📚 I'm currently learning ...HTML, CSS, JavaScript</p>
+<p align="left">I'm... from ....Germany<br><br>-- 📚 I'm currently learning ...HTML, CSS, JavaScript</p>
 
 ###
 
