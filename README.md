@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 i´m Radek</h1>
+<h1 align="center">Hey there 👋 I´m Radek</h1>
 
 ###
 
