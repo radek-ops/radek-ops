@@ -12,9 +12,6 @@
 ###
 
 <h1 align="center">Hey there 👋 I´m Radek</h1>
-
-
-
 <h3 align="left">🔥   my slogan :  the error is always in front of the monitor</h3>
 
 ###
