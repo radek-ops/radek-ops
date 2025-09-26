@@ -2,11 +2,11 @@
 
 <head>
 <style>
-a{
+a img{
   
 }
 
-a:hover{
+a img:hover{
  -webkit-filter: invert(1);
     filter: invert(1);
 
