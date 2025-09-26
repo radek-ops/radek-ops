@@ -15,6 +15,13 @@
 
 ###
 
+<h3 align="left">🔥   my slogan :  the error is always in front of the monitor</h3>
+
+###
+
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -46,12 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   my slogan :  the error is always in front of the monitor</h3>
-
-###
 
 <p align="left"></p>
 
