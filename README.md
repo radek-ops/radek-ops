@@ -1,6 +1,6 @@
 
 <html>
-<head>
+###
 <div align="center">
 <style>
 a img{
@@ -10,10 +10,9 @@ a img:hover{
     filter: invert(1);
 }
   
-
 </style>
 </div>
-</head>
+###
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
