@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm... from ....Germany<br><br>-- 📚 I'm currently learning ...HTML, CSS, JavaScript<br><br>-- finished with studies expected August 2026<br><br>--my progress : watch and enjoy my repos from time to time</p>
+<p align="left">I'm... from ....Germany<br><br>-- 📚 I'm currently learning ...JavaScript<br><br>-- finished with studies expected August 2026<br><br>--my progress : watch and enjoy my repos from time to time</p>
 
 ###
 
